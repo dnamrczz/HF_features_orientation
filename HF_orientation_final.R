@@ -118,8 +118,3 @@ GH7_IV_bearing_plot =
   xlab("Bearing angle (degree)") +
   ylab("Density")
 GH7_IV_bearing_plot
-
-
-
-
-
